@@ -28,3 +28,10 @@
 - _Second_ list item |
 - List item _three_ |
 
++++
+
+### Ordered Lists with full fragment syntax
+
+1. List item 1
+1. List item 2 <!-- .element: class="fragment" -->
+1. List item 3 <!-- .element: class="fragment" -->
