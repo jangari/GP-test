@@ -35,3 +35,12 @@
 1. List item 1
 1. List item 2 <!-- .element: class="fragment" -->
 1. List item 3 <!-- .element: class="fragment" -->
+
++++
+
+### Unordered list with markdown with full fragment syntax
+
+- _First_ list item
+- _Second_ list item <!-- .element: class="fragment" -->
+- List item _three_ <!-- .element: class="fragment" -->
+
