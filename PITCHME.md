@@ -62,6 +62,14 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 
 ### Text blocks
 
+<![CDATA[
+<p>Let's try that again.</p>
+<p>Here is a fragment.</p><!-- .element: class="fragment" -->
+<p>Here is <em>another</em> fragment.</p> <!-- .element: class="fragment" -->
+<p>And <strong>here</strong> is yet another fragment.</p> <!-- .element: class="fragment" -->
+<p>I am explicitly inserting html formatting here.</p> <!-- .element: class="fragment" -->
+]]>
+
 <p>Let's try that again.</p>
 <p>Here is a fragment.</p><!-- .element: class="fragment" -->
 <p>Here is <em>another</em> fragment.</p> <!-- .element: class="fragment" -->
