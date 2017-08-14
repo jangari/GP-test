@@ -62,8 +62,8 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 
 ### Text blocks
 
-Let's try that again.<br />
-Here is a fragment.<!-- .element: class="fragment" -->
-<br />Here is <em>another</em> fragment. <!-- .element: class="fragment" -->
-<br />And <strong>here</strong> is yet another fragment. <!-- .element: class="fragment" -->
-<br />I am explicitly inserting html formatting here. But here is a pipe. |
+<p>Let's try that again.</p>
+<p>Here is a fragment.</p><!-- .element: class="fragment" -->
+<p>Here is <em>another</em> fragment.</p> <!-- .element: class="fragment" -->
+<p>And <strong>here</strong> is yet another fragment.</p> <!-- .element: class="fragment" -->
+<p>I am explicitly inserting html formatting here.</p> <!-- .element: class="fragment" -->
