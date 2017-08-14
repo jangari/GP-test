@@ -57,3 +57,13 @@ Here is another fragment using the full syntax. <!-- .element: class="fragment" 
 *Here* is a text block with some markdown formatting and a pipe. |
 
 And *here* is a corresponding one with the full syntax. <!-- .element: class="fragment" -->
+
++++
+
+### Text blocks
+
+Let's try that again.<br />
+Here is a fragment.<!-- .element: class="fragment" -->
+<br />Here is <em>another</em> fragment. <!-- .element: class="fragment" -->
+<br />And <strong>here</strong> is yet another fragment. <!-- .element: class="fragment" -->
+<br />I am explicitly inserting html formatting here. But here is a pipe. |
