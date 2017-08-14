@@ -70,7 +70,7 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 
 +++
 
-### Unordered lists with explicit html formatting and pipes
+### Unordered markdown lists with explicit html formatting and pipes
 
 - <strong>First</strong> list item
 - <strong>Second</strong> list item |
@@ -78,8 +78,28 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 
 +++
 
-### Unordered lists with explicit html formatting and full fragment syntax
+### Unordered markdown lists with explicit html formatting and full fragment syntax
 
 - <strong>First</strong> list item
 - <strong>Second</strong> list item <!-- .element: class="fragment" -->
 - List item <strong>three</strong> <!-- .element: class="fragment" -->
+
++++
+
+### Unordered _html_ lists with explicit html formatting and pipes
+
+<ul>
+<li><strong>First</strong> list item </li>|
+<li><strong>Second</strong> list item</li>|
+<li>List item <strong>three</strong> </li>|
+</ul>
+
++++
+
+### Unordered _html_ lists with explicit html formatting and full fragment syntax
+
+<ul>
+<li><strong>First</strong> list item </li><!-- .element: class="fragment" -->
+<li><strong>Second</strong> list item</li><!-- .element: class="fragment" -->
+<li>List item <strong>three</strong> </li><!-- .element: class="fragment" -->
+</ul>
