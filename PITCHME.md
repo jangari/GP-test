@@ -67,3 +67,11 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 <p>Here is <em>another</em> fragment.</p> <!-- .element: class="fragment" -->
 <p>And <strong>here</strong> is yet another fragment.</p> <!-- .element: class="fragment" -->
 <p>I am explicitly inserting html formatting here.</p> <!-- .element: class="fragment" -->
+
++++
+
+### Unordered lists with explicit html formatting and pipes
+
+- <strong>First</strong> list item
+- <strong>Second</strong> list item |
+- List item <strong>three</strong> |
