@@ -75,3 +75,11 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 - <strong>First</strong> list item
 - <strong>Second</strong> list item |
 - List item <strong>three</strong> |
+
++++
+
+### Unordered lists with explicit html formatting and full fragment syntax
+
+- <strong>First</strong> list item
+- <strong>Second</strong> list item <!-- .element: class="fragment" -->
+- List item <strong>three</strong> <!-- .element: class="fragment" -->
