@@ -44,3 +44,12 @@
 - _Second_ list item <!-- .element: class="fragment" -->
 - List item _three_ <!-- .element: class="fragment" -->
 
++++
+
+### Text blocks
+
+Here is a line of text.
+Here is another one in a fragment using the pipe syntax. |
+Here is another fragment using the full syntax. <!-- .element: class="fragment" -->
+*Here* is a text block with some markdown formatting and a pipe. |
+And *here* is a corresponding one with the full syntax. <!-- .element: class="fragment" -->
