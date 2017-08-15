@@ -4,7 +4,7 @@
 
 ## Trying out code slides
 
----?code=test.md&lang=markdown
+---?code=test.md
 
 ---
 
