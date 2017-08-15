@@ -6,6 +6,8 @@
 
 ---?code=code/Numberwang.py&lang=python
 
+@[5-7](Initialise some variables<br />Locations is a list)
+
 ---
 
 ## Slide fragments
