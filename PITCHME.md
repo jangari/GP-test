@@ -4,7 +4,9 @@
 
 ## Slide fragments
 
-+++
++++?code=PITCHME.md&lang=markdown
+
+---
 
 ### Unordered lists
 
