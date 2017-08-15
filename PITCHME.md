@@ -4,7 +4,7 @@
 
 ## Trying out code slides
 
----?code=code/test.md
+---?code=code/Numberwang.py&lang=python
 
 ---
 
