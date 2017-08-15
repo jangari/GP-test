@@ -12,7 +12,7 @@
 
 Attempt at MD include
 
----?code=intro-slide.md
+---?include=intro-slide.md
 
 ---
 ## Slide fragments
