@@ -10,6 +10,11 @@
 
 ---
 
+Attempt at MD include
+
+---?code=intro-slide.md
+
+---
 ## Slide fragments
 
 +++
