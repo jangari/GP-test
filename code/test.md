@@ -2,15 +2,11 @@
 
 ---
 
-## Trying out code slides
-
----?code=code/test.md
-
----
-
 ## Slide fragments
 
-+++
+---?code=PITCHME.md&lang=markdown
+
+---
 
 ### Unordered lists
 
