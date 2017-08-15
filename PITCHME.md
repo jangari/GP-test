@@ -4,7 +4,7 @@
 
 ## Slide fragments
 
-+++?code=PITCHME.md&lang=markdown
+---?code=PITCHME.md&lang=markdown
 
 ---
 
