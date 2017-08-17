@@ -217,3 +217,5 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 <li><strong>Second</strong> list item</li><!-- .element: class="fragment" -->
 <li>List item <strong>three</strong> </li><!-- .element: class="fragment" -->
 </ul>
+
+---?include=test.md
