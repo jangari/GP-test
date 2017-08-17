@@ -6,7 +6,8 @@
 
 ---?code=code/Numberwang.py&lang=python
 
-@[5-7](Initialise some variables<br />Locations is a list)@[10-20](Some other annotation)
+@[5-7](Initialise some variables<br />Locations is a list)
+@[10-20](Some other annotation)
 
 ---
 
