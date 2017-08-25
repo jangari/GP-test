@@ -220,3 +220,9 @@ And *here* is a corresponding one with the full syntax. <!-- .element: class="fr
 </ul>
 
 ---?include=test.md
+
+---
+
+## Trying out some iframes
+
+<iframe src="http://opensourcemalaria.org/"  allowTransparency="true" scrolling="no" frameborder="0" ></iframe>
