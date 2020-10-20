@@ -12,4 +12,4 @@
 
 ---
 
-@plantuml(diagram/test.puml)
+@plantuml[drop=left](diagram/test.puml)
