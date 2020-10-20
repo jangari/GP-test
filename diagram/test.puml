@@ -1,0 +1,23 @@
+@startuml
+start
+if (Authentication method) then (AAF)
+    :Select IDP;
+    :Authenticate;
+else (Local)
+    if (Has account) then (Yes)
+    :Authenticate;
+    else (No)
+        :Complete account request form;
+        :account granted;
+        ->Authentication method;
+        end
+    endif
+endif
+if (User in allowlist) then (Yes)
+    :Continue to account;
+else (No)
+    :Redirect to Terms of Service;
+    :Sign Terms of Service;
+endif
+end
+@enduml
